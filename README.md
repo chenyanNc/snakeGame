@@ -1,7 +1,8 @@
 # snakeGame
-简易版贪食蛇, TypeScript + Less + webpack\
+简易版贪食蛇, TypeScript + Less + webpack
 
-![1637657930546](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1637657930546.png)
+![](./snake.png)
+
 
 
 ##### 启动或打包项目
